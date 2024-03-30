@@ -1,0 +1,14 @@
+{
+    "name": "trainee-sessions",
+    "version": "1.0.0",
+    "description": "Description of my project",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "author": "SANDEEP",
+    "license": "MIT",
+    "dependencies": {
+      "dependency-name": "^1.0.0"
+    }
+  }
